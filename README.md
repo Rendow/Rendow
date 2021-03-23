@@ -1,7 +1,5 @@
-Hi, my name is **Ivan Haydin**!
+# Hi, my name is **Ivan Haydin**!
 ## I'm a beginner *Front-end developer* from Saint-Petersburg.
-### Check my blog: [front.ru](https://www.instagram.com/front.ru/) (2.5k+ subs) 
-### Check my website: [dnotrad.io](https://dnotrad.github.io/)
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
