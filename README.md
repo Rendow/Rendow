@@ -1,6 +1,6 @@
 # Hi, my name is **Ivan**!
 ## I'm a beginner *Front-end developer* from Saint-Petersburg.
-### MY languages and Technologies 
+### My languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
